@@ -11,6 +11,7 @@
 		1456CB181E1E05DA0074D63C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1456CB171E1E05DA0074D63C /* Assets.xcassets */; };
 		1456CB1B1E1E05DA0074D63C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1456CB191E1E05DA0074D63C /* LaunchScreen.storyboard */; };
 		1456CB241E1E06300074D63C /* CoreLocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1456CB231E1E06300074D63C /* CoreLocationViewController.swift */; };
+		A70D1B1D1E1EA99500CE5C0B /* DemoLocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A70D1B1C1E1EA99500CE5C0B /* DemoLocationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		1456CB1A1E1E05DA0074D63C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1456CB1C1E1E05DA0074D63C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1456CB231E1E06300074D63C /* CoreLocationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoreLocationViewController.swift; sourceTree = "<group>"; };
+		A70D1B1C1E1EA99500CE5C0B /* DemoLocationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DemoLocationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			isa = PBXGroup;
 			children = (
 				1456CB231E1E06300074D63C /* CoreLocationViewController.swift */,
+				A70D1B1C1E1EA99500CE5C0B /* DemoLocationViewController.swift */,
 				1456CB171E1E05DA0074D63C /* Assets.xcassets */,
 				1456CB191E1E05DA0074D63C /* LaunchScreen.storyboard */,
 				1456CB1C1E1E05DA0074D63C /* Info.plist */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1456CB241E1E06300074D63C /* CoreLocationViewController.swift in Sources */,
+				A70D1B1D1E1EA99500CE5C0B /* DemoLocationViewController.swift in Sources */,
 				1456CB111E1E05DA0074D63C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
